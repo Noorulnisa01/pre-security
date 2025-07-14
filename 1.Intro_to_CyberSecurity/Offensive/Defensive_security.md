@@ -1,8 +1,9 @@
 # 🛡️ Introduction to CyberSecurity
 
 Cybersecurity is broadly categorized into two major areas:
-1. Offensive Security  
-2. Defensive Security
+
+**1. Offensive Security  
+2. Defensive Security**
 
 ---
 
@@ -30,6 +31,7 @@ Offensive security focuses on **breaking into systems**, **exploiting vulnerabil
 Defensive security focuses on **preventing intrusions** and **detecting/responding** when they occur. Blue teams are responsible for these activities.
 
 ### 🔐 Main Objectives:
+
 - Prevent intrusions
 - Detect intrusions
 - Respond to incidents appropriately
@@ -60,6 +62,7 @@ Defensive security focuses on **preventing intrusions** and **detecting/respondi
 A **SOC** is a team of cybersecurity professionals that monitor systems and networks to detect malicious events.
 
 #### Key Responsibilities:
+
 - **Vulnerability Management**  
   Fixing or mitigating system weaknesses.
 
@@ -79,16 +82,19 @@ A **SOC** is a team of cybersecurity professionals that monitor systems and netw
 **Threat Intelligence** is about gathering and analyzing information related to **actual or potential cyber threats**.
 
 #### Key Concepts:
+
 - Intelligence is gathered from logs, forums, and threat feeds.
 - Data is collected, processed, and analyzed to detect adversary patterns.
 - Helps predict attacker behavior and supports **threat-informed defense**.
 
 > ***Examples of threat actors:***
+>
 > - ***Nation-state cyber armies***
 > - ***Ransomware gangs***
 > - ***Hacktivists***
 
 #### 🛠️ Open-Source Tools:
+
 - **AbuseIPDB** – Check IP reputation and report malicious IPs  
 - **Cisco Talos Intelligence** – Threat detection and investigation
 
@@ -103,6 +109,7 @@ DFIR involves **investigating cyber incidents**, understanding the attack, and i
 #### 📁 1. ***Digital Forensics***
 
 Focuses on analyzing:
+
 - **File Systems** – Revealing installed, deleted, and hidden files
 - **System Memory** – Capturing malware in memory-only operations
 - **System Logs** – Identifying anomalies and attack footprints
@@ -113,6 +120,7 @@ Focuses on analyzing:
 Incident response outlines how to react to data breaches, malware outbreaks, and intrusions.
 
 ##### 🔄 Four Phases of Incident Response:
+
 1. **Preparation** – Team readiness and proactive defense
 2. **Detection and Analysis** – Identifying and assessing incidents
 3. **Containment, Eradication, and Recovery** – Isolate, clean, and restore systems
@@ -125,6 +133,7 @@ Incident response outlines how to react to data breaches, malware outbreaks, and
 **Malware** is any software created with malicious intent, such as viruses, trojans, and ransomware.
 
 #### 🧬 Types of Malware:
+
 - **Virus** – Code that spreads by attaching to programs
 - **Trojan Horse** – A seemingly harmless program that performs malicious actions
 - **Ransomware** – Encrypts user data and demands ransom for access
